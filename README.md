@@ -1,8 +1,4 @@
-<!-- 罫線を表示 -->
-<style type="text/css"> 
-    table { border-collapse: collapse; } 
-    table, th, td { border: 1px solid black; } 
-</style>
+
 
 # 外部FTP/HTTPファイルサーバからZebra Anddoid端末にStageNowを用いてファイルを転送する方法
 
